@@ -74,3 +74,5 @@ out/
 # -----------------------------
 .DS_Store
 Thumbs.db
+Dockerfile.backend
+docker-compose.yml
