@@ -1,0 +1,76 @@
+# -----------------------------
+# Project help/documentation
+# -----------------------------
+HELP.md
+
+# -----------------------------
+# Environment / Secret files
+# -----------------------------
+.env
+*.env
+
+# -----------------------------
+# Maven / Target folders
+# -----------------------------
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# -----------------------------
+# Gradle build folders (if any)
+# -----------------------------
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+logs/
+*.out
+
+# -----------------------------
+# Spring Tools Suite (STS)
+# -----------------------------
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# -----------------------------
+# IntelliJ IDEA
+# -----------------------------
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+# -----------------------------
+# NetBeans
+# -----------------------------
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# -----------------------------
+# Eclipse / VS Code
+# -----------------------------
+.vscode/
+.metadata/
+*.tmp
+*.bak
+*.swp
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
