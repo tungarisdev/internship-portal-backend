@@ -84,7 +84,3 @@ mvn spring-boot:run
 
 ---
 
-## Liên hệ
-- Người phát triển: [Tên bạn / TungarisDev]
-- Email: [your-email@example.com]
-
